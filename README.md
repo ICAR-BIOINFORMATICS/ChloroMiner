@@ -2,7 +2,8 @@
 The automation script to assemble chloroplast genome from whole genome NGS (forward and reverse reads).
 “ChloroMiner” the chloroplast genome assembly Pipeline is a user-friendly tool designed to facilitate the assembly of chloroplast genomes from the raw sequencing data. This manual provides a step-by-step guide on how to use the pipeline effectively. 
 
-Please ensure that you have the following dependencies installed before proceeding:
+
+### Before starting please ensure that you have the following dependencies installed before proceeding:
 
 
 	Python (version 3 or higher):https://docs.python-guide.org/starting/install3/linux/
@@ -17,7 +18,7 @@ Download the ChloroMiner package from the github using
 
  
  
- After downloading the pipeline package, you need to follow the steps below one by one. 
+## After downloading the pipeline package, you need to follow the steps below one by one. 
  
 Step 1: Downloaded python scripts to a desired location on your computer 
 
@@ -39,7 +40,7 @@ Running the Pipeline Follow these steps to run the ChloroMiner:
 		python3 automatioon_script.py <Trimomatic_adapter_path> <reference_chloroplast_genome_file>
 
 
-Developed by:
+## Developed by:
 
 Dr. Samarth Godara, Scientist, Division of Computer Applications, ICAR-Indian Agricultural Statistics Research Institute (IASRI), Library Avenue, Pusa, New Delhi-110012 For any query, contact: samarth.godara@gmail.com.
 
