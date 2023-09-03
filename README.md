@@ -6,12 +6,12 @@ The automation script to assemble chloroplast genome from whole genome NGS (forw
 ### Before starting please ensure that you have the following dependencies installed before proceeding:
 
 
-	Python (version 3 or higher):https://docs.python-guide.org/starting/install3/linux/
+Python (version 3 or higher):https://docs.python-guide.org/starting/install3/linux/
 
 
-	Trimmomatic: https://git.launchpad.net/ubuntu/+source/trimmomatic/log/?h=ubuntu/focal
+Trimmomatic: https://git.launchpad.net/ubuntu/+source/trimmomatic/log/?h=ubuntu/focal
 
-Download the ChloroMiner package from the github using 
+## Download the ChloroMiner package from the github using 
 
 		https://github.com/ICAR-BIOINFORMATICS/ChloroMiner.git 
 
