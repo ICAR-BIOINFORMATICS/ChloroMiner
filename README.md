@@ -45,6 +45,6 @@ Running the Pipeline Follow these steps to run the ChloroMiner:
 Dr. Samarth Godara, Scientist, Division of Computer Applications, ICAR-Indian Agricultural Statistics Research Institute (IASRI), Library Avenue, Pusa, New Delhi-110012 For any query, contact: samarth.godara@gmail.com.
 
 Dr. Shbana Begam, Scientist, ICAR-National Institute for Plant Biotechnology, New Delhi-110012
-![image](https://github.com/ICAR-BIOINFORMATICS/ChloroMiner/assets/137381825/8de7c202-6ad5-4c22-b426-f59789f21be6)
+
 
 
