@@ -39,7 +39,7 @@ Running the Pipeline Follow these steps to run the ChloroMiner:
 
 		python3 automatioon_script.py -adap <Trimomatic_adapter_path> -ref <reference_chloroplast_genome_file> -threads <no of threads>
 
-Here -adap is the path of trimmomatic adapters in your computer; -ref is the refrence Chloroplast genome; -threads is no of threads as per your computer's specification i.e. 8/12/16/31/64
+Here -adap is the path of trimmomatic adapters in your computer; -ref is the refrence Chloroplast genome; -threads is no of threads as per your computer's specification i.e. 8/12/16/31/64 etc.
 
 
 ## Developed by:
