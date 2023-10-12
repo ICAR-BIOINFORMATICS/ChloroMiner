@@ -37,7 +37,7 @@ Running the Pipeline Follow these steps to run the ChloroMiner:
 
 3: Execute the pipeline script using the following command:
 
-		python3 automatioon_script.py <Trimomatic_adapter_path> <reference_chloroplast_genome_file>
+		python3 automatioon_script.py -adap <Trimomatic_adapter_path> -ref <reference_chloroplast_genome_file> -threads <no od threads as per your computer's specification i.e. 8/12/16/31/64>
 
 
 ## Developed by:
