@@ -7,6 +7,7 @@ The automation script to assemble chloroplast genome from whole genome NGS (forw
 
 
 Python (version 3 or higher):https://docs.python-guide.org/starting/install3/linux/
+Under the python two modules are required to load namely "pandas" (pip3 install pandas) and "matplotlib" (pip3 install matplotlib)
 
 
 Trimmomatic: https://git.launchpad.net/ubuntu/+source/trimmomatic/log/?h=ubuntu/focal
