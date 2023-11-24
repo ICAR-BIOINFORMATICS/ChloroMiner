@@ -28,7 +28,7 @@ Step 1: Downloaded python scripts to a desired location on your computer
 
 Step 2: Preparing the Input Data Before running the pipeline, make sure you have the following input data ready:
 		
-		Raw sequencing reads in farstq.gz format.
+		Raw sequencing reads in fastq.gz format.
 
 
 Running the Pipeline Follow these steps to run the ChloroMiner:
