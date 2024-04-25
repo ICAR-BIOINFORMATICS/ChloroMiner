@@ -10,7 +10,7 @@ Python (version 3 or higher):https://docs.python-guide.org/starting/install3/lin
 
 Under the python two modules are required to load namely "pandas" (pip3 install pandas) and "matplotlib" (pip3 install matplotlib)
 or user can load both the package using single command
-	Pip install pandas; pip install matplotlib
+		Pip install pandas; pip install matplotlib
 
 Trimmomatic: https://git.launchpad.net/ubuntu/+source/trimmomatic/log/?h=ubuntu/focal
 
